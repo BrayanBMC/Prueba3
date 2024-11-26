@@ -1,0 +1,4 @@
+flask==1.0.2
+django==2.8
+requests==2.19.1
+
